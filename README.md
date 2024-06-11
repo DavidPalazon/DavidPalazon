@@ -4,7 +4,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist and MLOPs Engineer with background on Telecommunications Engineering
 -----------------------------------------------------------------------------------
 
-My journey into the world of coding began when I was a little kid, dabbling in Python and Java. However, it wasn’t until my fourth year in the Telecommunications Engineering program at the Polytechnic University of Cartagena (UPCT) that I truly embraced my passion for programming. During one of my lectures and through my final course project, which focused on glaucoma detection methods using machine learning, I discovered the fascinating realm of data science and artificial intelligence. Since then, programming has become a daily activity for me. On this GitHub profile, you'll find a collection of both simple and complex data science projects that I've worked on. These projects showcase my growth and expertise in various areas, including: Machine Learning and Deep Learning: From predictive models to complex classifiers, my projects demonstrate a solid understanding of these technologies. Data Analysis: Exploring and visualizing data to extract meaningful insights has always been a key focus. Technologies and Tools: Proficient in Python, SQL, and Azure, and experienced with various machine learning libraries. Some of my notable projects include: Weather Predictors: Using LSTM, GRU, and XGBoost to forecast weather conditions. Income Classifiers: Predicting whether an individual's income exceeds a certain threshold. Housing Price Regression Models: Estimating real estate prices based on various features. I am currently working on a side project related to personal finance and long-term investment, combining my passion for coding with my interest in financial analytics. Feel free to explore my repositories, contribute, or reach out if you share similar interests. Let's build something amazing together!
+My journey into the world of coding began when I was a little kid, dabbling in Python and Java. However, it wasn’t until my fourth year in the Telecommunications Engineering program at the Polytechnic University of Cartagena (UPCT) that I truly embraced my passion for programming. During one of my lectures and through my final course project, which focused on glaucoma detection methods using machine learning, I discovered the fascinating realm of data science and artificial intelligence. Since then, programming has become a daily activity for me. On this GitHub profile, you'll find a collection of both simple and complex data science projects that I've worked on. 
+
+## These projects showcase my growth and expertise in various areas, including: 
+- Machine Learning and Deep Learning: From predictive models to complex classifiers, my projects demonstrate a solid understanding of these technologies.
+- Data Analysis: Exploring and visualizing data to extract meaningful insights has always been a key focus.
+
+## Technologies and Tools: 
+- Proficient in Python, SQL, and Azure, and experienced with various machine learning libraries.
+
+## Some of my notable projects include: 
+- **Weather Predictors**: Using LSTM, GRU, and XGBoost to forecast weather conditions on Jena Dataset.
+- **Census Income Classifiers**: Predicting whether an individual's income exceeds a certain threshold.
+- **Housing Price Regression Models**: Estimating real estate prices based on various features.
+
+I am currently working on a **side project** related to **personal finance** and **long-term investment**, combining my passion for coding with my interest in financial analytics. 
+Feel free to explore my repositories, contribute, or reach out if you share similar interests. Let's build something amazing together!
 
 *   🌍  I'm based in Pilar de la Horadada, Alicante
 *   ✉️  You can contact me at [davidpp\_00@icloud.com](mailto:davidpp_00@icloud.com)
