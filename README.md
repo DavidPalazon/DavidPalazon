@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Palazon Palau
 ===========================================================================================================================================
 
-Data Scientist and MLOPs Engineer with background on Telecommunications Engineering
+Future Data Scientist and MLOPs Engineer with background on Telecommunications Engineering
 -----------------------------------------------------------------------------------
 
 My journey into the world of coding began when I was a little kid, dabbling in Python and Java. However, it wasn’t until my fourth year in the Telecommunications Engineering program at the Polytechnic University of Cartagena (UPCT) that I truly embraced my passion for programming. During one of my lectures and through my final course project, which focused on glaucoma detection methods using machine learning, I discovered the fascinating realm of data science and artificial intelligence. Since then, programming has become a daily activity for me. On this GitHub profile, you'll find a collection of both simple and complex data science projects that I've worked on. 
